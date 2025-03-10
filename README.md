@@ -10,6 +10,7 @@
 
 메이커 교육과 관련한 질문이 있거나, 관심 분야에 대해 함께 이야기 나누고 싶다면 언제든지 📮 cheul1987@ts.hs.kr으로 연락 주세요!
 
+
 My name is Seungcheul Kim. I am currently a Maker teacher at [Daegu Science High School](https://dshs.dge.hs.kr/dshsh/main.do), where I strive to inspire creativity and innovation in my students.
 
 I am currently focused on designing and implementing an innovative and engaging Maker course program that breaks away from traditional approaches and emphasizes hands-on creativity. Additionally, I am working on building and maintaining a robust system to enhance the overall effectiveness of the Maker course.
@@ -19,3 +20,9 @@ To provide high-quality education to my students, I continuously study and utili
 Beyond my professional role, I have a strong personal interest in deep learning and actively explore related fields to expand my knowledge and skills.
 
 Feel free to contact me at 📮 either cheul1987@ts.hs.kr or cheul1987@gmail.com if you have any questions about the Maker course or would like to discuss shared passions and ideas.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dshs_logo.JPG" width=350 >
+  <source media="(prefers-color-scheme: light)" srcset="dshs_logo.JPG" width=350 >
+  <img alt ="dshs" src="dshs_logo.JPG" width=350 >
+</picture>
