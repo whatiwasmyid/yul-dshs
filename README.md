@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to cheul-dshs 👋
 
 제 이름은 김승철입니다. 현재 [대구과학고등학교](https://dshs.dge.hs.kr/dshsh/main.do)에서 메이커 교사로 재직하며, 학생들에게 창의성과 혁신적인 사고를 심어주기 위해 노력하고 있습니다.
 
