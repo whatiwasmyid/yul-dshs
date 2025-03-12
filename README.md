@@ -1,4 +1,4 @@
-## Welcome to cheul-dshs 👋
+## Welcome to yul-dshs 👋
 
 제 이름은 최율입니다. 
 
